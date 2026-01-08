@@ -1,0 +1,12 @@
+# --- Ignorar Backend (Python/Django) ---
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+
+# --- Ignorar Frontend (Node/React) ---
+node_modules/
+dist/
+build/
+.DS_Store
